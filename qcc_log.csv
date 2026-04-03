@@ -1,0 +1,2 @@
+timestamp,supplier,problem,action,owner,expected,status
+2026-03-31T19:03:10.881989,SUPP003,"e.g., high water usage in process X","e.g., install recycling loop / change coolant",,,Open

@@ -1,0 +1,6 @@
+supplier_id,region,annual_revenue,scope1_emissions,scope2_emissions,scope3_emissions,water_usage,waste_generated,audit_score,incidents,flood_risk_index
+SUP001,North,120000,400,300,900,5000,200,85,2,0.6
+SUP002,South,95000,350,250,1100,6200,310,78,1,0.5
+SUP003,East,150000,500,420,1300,5800,250,88,0,0.7
+SUP004,West,80000,300,210,850,7000,350,70,3,0.8
+SUP005,North,110000,420,290,950,5400,270,82,1,0.6
